@@ -1,5 +1,6 @@
 /*Mariana Gutiérrez Acosta
 Tarea 2 ejercicio 1*/
+
 #include <stdio.h>
 
 void main() 
