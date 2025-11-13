@@ -1,3 +1,6 @@
+/*Mariana Gutiérrez Acosta
+Tarea 2 ejercicio 9*/
+
 #include <stdio.h>
 
 void main() 
