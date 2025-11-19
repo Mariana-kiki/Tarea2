@@ -5,8 +5,7 @@ Tarea 2 ejercicio 3*/
 
 void main() 
 {
-    int dolares;
-    int pesos;
+    int dolares, pesos;
 
     printf("Ingrese la cantidad en dólares: ");
     scanf("%d", &dolares);
