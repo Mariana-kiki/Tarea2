@@ -16,7 +16,7 @@ void main()
     }
     while (i <= N) 
     {
-        producto *= i;
+        producto = producto * i;
         i++;
     }
     printf("El producto de los %d primeros números naturales es: %.0f\n", N, producto);
