@@ -7,8 +7,7 @@ void main()
     int n, i, x, contador = 0;
     printf("Ingrese el tamaño del arreglo: ");
     scanf("%d", &n);
-    int arreglo[n]; // Declaración del arreglo
-
+    int arreglo[n]; 
     for(i = 0; i < n; i++) 
     {
         printf("Ingrese el elemento %d: ", i+1);
