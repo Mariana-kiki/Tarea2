@@ -32,5 +32,3 @@ void main ()
     printf("Negativos: %d\n", negativos);
     printf("Nulos: %d\n", nulos);
 }
-
-}
