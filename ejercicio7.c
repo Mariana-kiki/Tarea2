@@ -20,6 +20,6 @@ void main()
     {
         descuento = precio * 0.30;
     }
-    precio_final = (int)(precio - descuento);  
+    precio_final = precio - descuento;  
     printf("El precio final del ticket es: $%d\n", precio_final);
 }
